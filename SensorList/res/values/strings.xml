@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_acelerometer">Acelerometer</string>
+    <string name="title_activity_gyroscope">Gyroscope</string>
+    <string name="title_activity_light">Light</string>
+
+</resources>
